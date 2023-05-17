@@ -1,0 +1,1 @@
+# vessel-email-templates
